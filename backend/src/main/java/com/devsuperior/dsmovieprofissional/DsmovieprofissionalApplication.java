@@ -10,4 +10,5 @@ public class DsmovieprofissionalApplication {
 		SpringApplication.run(DsmovieprofissionalApplication.class, args);
 	}
 
+	
 }
