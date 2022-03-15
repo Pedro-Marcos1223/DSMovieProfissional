@@ -39,7 +39,6 @@ function Listing() {
 
     return (
         <>
-            <p>{pageNumber}</p>
             <Pagination page={page} onChange={handlePageChange} />
 
             <div className="container">
